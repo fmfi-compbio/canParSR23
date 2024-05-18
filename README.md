@@ -27,6 +27,7 @@ Folder `annotation`
 ## Custom scripts
 
 In addition to standard bioinformatics software tools, we used several custom scripts available at https://github.com/fmfi-compbio/assembly-scripts
+(version https://doi.org/10.5281/zenodo.11214101 )
 
 * `extract_fasta.pl`
 * `assembly.pl`
